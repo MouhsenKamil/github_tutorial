@@ -4,4 +4,4 @@ file.txt
 file3.txt
 README.md
 sky is blue
-hello world22445
+hello world224this is a sampele msg for checking mergeconflict45
