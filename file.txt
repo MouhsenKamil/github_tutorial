@@ -3,3 +3,4 @@ second line
 3rd line
 new line for pr-demo
 another commit to test squash and merge feature
+another commit to test rebase and merge feature in gh
