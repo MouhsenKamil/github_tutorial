@@ -1,5 +1,6 @@
 new file
 second line
 3rd line
+new line to test rebase and merge
 new line for pr-demo
 another commit to test squash and merge feature
