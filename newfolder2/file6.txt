@@ -1,2 +1,3 @@
 file6
+new line to test rebase and merge
 contents
